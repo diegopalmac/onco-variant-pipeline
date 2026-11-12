@@ -1,0 +1,162 @@
+{
+  "paciente_id": "SYN-0003",
+  "edad": "53",
+  "sexo": "Female",
+  "tipo_cancer": "Colorectal Cancer",
+  "tipo_muestra": "ctDNA",
+  "fecha de reporte": "2025-06-11",
+  "Blood_Microsatellite_Status": "MSI-L/MSS",
+  "Blood_Tumor_Mutation_Burden": "2.99 Muts/Mb",
+  "variantes": [
+    {
+      "tier": "III",
+      "gen": "SYNG15",
+      "resultado_test": "p.C1789E (c.5365A>C)",
+      "abundancia": "40.15%",
+      "subregion": "EX12",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG09",
+      "resultado_test": "p.D1457G (c.4370C>A)",
+      "abundancia": "19.26%",
+      "subregion": "EX14",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG04",
+      "resultado_test": "p.G333Q (c.998A>C)",
+      "abundancia": "40.82%",
+      "subregion": "EX21",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG07",
+      "resultado_test": "p.M1583E (c.4749A>C)",
+      "abundancia": "20.12%",
+      "subregion": "EX13",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG15",
+      "resultado_test": "p.K1103V (c.3307A>G)",
+      "abundancia": "7.25%",
+      "subregion": "EX5",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG09",
+      "resultado_test": "p.V1330I (c.3990G>A)",
+      "abundancia": "38.78%",
+      "subregion": "EX28",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG01",
+      "resultado_test": "p.H1169V (c.3506T>A)",
+      "abundancia": "20.31%",
+      "subregion": "EX20",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG06",
+      "resultado_test": "p.W1280L (c.3840T>G)",
+      "abundancia": "33.85%",
+      "subregion": "EX11",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG10",
+      "resultado_test": "p.Q450W (c.1349G>C)",
+      "abundancia": "37.81%",
+      "subregion": "EX16",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG07",
+      "resultado_test": "p.S1066G (c.3196A>C)",
+      "abundancia": "12.55%",
+      "subregion": "EX23",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG11",
+      "resultado_test": "p.I211L (c.633C>A)",
+      "abundancia": "35.02%",
+      "subregion": "EX2",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG02",
+      "resultado_test": "p.S521D (c.1561T>C)",
+      "abundancia": "21.86%",
+      "subregion": "EX20",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG07",
+      "resultado_test": "p.P1491S (c.4473T>A)",
+      "abundancia": "10.84%",
+      "subregion": "EX22",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG01",
+      "resultado_test": "p.E1557Q (c.4669C>A)",
+      "abundancia": "19.85%",
+      "subregion": "EX18",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG15",
+      "resultado_test": "p.V122I (c.366A>C)",
+      "abundancia": "32.14%",
+      "subregion": "EX27",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    }
+  ]
+}

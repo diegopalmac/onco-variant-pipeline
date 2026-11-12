@@ -1,0 +1,72 @@
+{
+  "paciente_id": "SYN-0019",
+  "edad": "62",
+  "sexo": "Male",
+  "tipo_cancer": "Colorectal Cancer",
+  "tipo_muestra": "ctDNA",
+  "fecha de reporte": "2025-04-15",
+  "Blood_Microsatellite_Status": "MSI-L/MSS",
+  "Blood_Tumor_Mutation_Burden": "13.00 Muts/Mb",
+  "variantes": [
+    {
+      "tier": "III",
+      "gen": "SYNG01",
+      "resultado_test": "p.H1169V (c.3506T>A)",
+      "abundancia": "2.05%",
+      "subregion": "EX20",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG13",
+      "resultado_test": "p.I761F (c.2283T>A)",
+      "abundancia": "17.47%",
+      "subregion": "EX29",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG08",
+      "resultado_test": "p.V1545Y (c.4633G>T)",
+      "abundancia": "16.86%",
+      "subregion": "EX15",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG04",
+      "resultado_test": "p.S1733V (c.5197A>G)",
+      "abundancia": "33.65%",
+      "subregion": "EX20",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG08",
+      "resultado_test": "p.F1491L (c.4471T>A)",
+      "abundancia": "16.13%",
+      "subregion": "EX13",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG08",
+      "resultado_test": "p.Q1188G (c.3563A>G)",
+      "abundancia": "3.13%",
+      "subregion": "EX4",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    }
+  ]
+}

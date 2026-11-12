@@ -1,0 +1,122 @@
+{
+  "paciente_id": "SYN-0058",
+  "edad": "58",
+  "sexo": "Female",
+  "tipo_cancer": "Breast Cancer",
+  "tipo_muestra": "ctDNA",
+  "fecha de reporte": "2025-02-19",
+  "Blood_Microsatellite_Status": "MSI-L/MSS",
+  "Blood_Tumor_Mutation_Burden": "<1 Muts/Mb",
+  "variantes": [
+    {
+      "tier": "I",
+      "gen": "ERBB2",
+      "resultado_test": "copy number gain",
+      "abundancia": "N/A",
+      "subregion": "",
+      "transcript": "NM_004448",
+      "terapias_sensibles": "Therapy-E (Level B)",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG12",
+      "resultado_test": "p.K1256C (c.3768T>G)",
+      "abundancia": "14.27%",
+      "subregion": "EX14",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG14",
+      "resultado_test": "p.E409Y (c.1226T>C)",
+      "abundancia": "0.48%",
+      "subregion": "EX15",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG09",
+      "resultado_test": "p.A1677G (c.5030T>C)",
+      "abundancia": "30.37%",
+      "subregion": "EX6",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG13",
+      "resultado_test": "p.G140P (c.419A>C)",
+      "abundancia": "17.14%",
+      "subregion": "EX27",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG15",
+      "resultado_test": "p.K1103V (c.3307A>G)",
+      "abundancia": "4.62%",
+      "subregion": "EX5",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG16",
+      "resultado_test": "p.H1529I (c.4587C>T)",
+      "abundancia": "16.34%",
+      "subregion": "EX9",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG07",
+      "resultado_test": "p.I1729N (c.5187C>A)",
+      "abundancia": "38.80%",
+      "subregion": "EX4",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG16",
+      "resultado_test": "p.A1277V (c.3830A>C)",
+      "abundancia": "8.50%",
+      "subregion": "EX21",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG11",
+      "resultado_test": "p.W1028K (c.3082T>A)",
+      "abundancia": "11.90%",
+      "subregion": "EX10",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG13",
+      "resultado_test": "p.W474F (c.1421A>G)",
+      "abundancia": "12.20%",
+      "subregion": "EX17",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    }
+  ]
+}

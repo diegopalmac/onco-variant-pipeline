@@ -1,0 +1,82 @@
+{
+  "paciente_id": "SYN-0043",
+  "edad": "83",
+  "sexo": "Male",
+  "tipo_cancer": "Prostate Cancer",
+  "tipo_muestra": "ctDNA",
+  "fecha de reporte": "2025-03-25",
+  "Blood_Microsatellite_Status": "MSI-L/MSS",
+  "Blood_Tumor_Mutation_Burden": "1.75 Muts/Mb",
+  "variantes": [
+    {
+      "tier": "I",
+      "gen": "EGFR",
+      "resultado_test": "p.T790M (c.2369C>T)",
+      "abundancia": "40.28%",
+      "subregion": "EX20",
+      "transcript": "NM_005228",
+      "terapias_sensibles": "Therapy-C (Level A)",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG15",
+      "resultado_test": "p.K1103V (c.3307A>G)",
+      "abundancia": "28.92%",
+      "subregion": "EX5",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG01",
+      "resultado_test": "p.K1498T (c.4494C>G)",
+      "abundancia": "17.50%",
+      "subregion": "EX29",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG09",
+      "resultado_test": "p.A1677G (c.5030T>C)",
+      "abundancia": "16.76%",
+      "subregion": "EX6",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG01",
+      "resultado_test": "p.H1169V (c.3506T>A)",
+      "abundancia": "17.23%",
+      "subregion": "EX20",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG13",
+      "resultado_test": "p.V1190S (c.3569C>A)",
+      "abundancia": "8.48%",
+      "subregion": "EX2",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    },
+    {
+      "tier": "III",
+      "gen": "SYNG14",
+      "resultado_test": "p.L199S (c.597C>A)",
+      "abundancia": "2.10%",
+      "subregion": "EX8",
+      "transcript": "",
+      "terapias_sensibles": "",
+      "terapias_resistentes": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+pandas
+SQLAlchemy
+matplotlib
+openpyxl
+pytest
+streamlit>=1.50
+reportlab
+# only needed for the PDF + LLM extraction step
+pdfplumber
+google-generativeai

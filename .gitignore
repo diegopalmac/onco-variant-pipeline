@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml
+*.db
+*_gemini_logs/
+# never commit real reports: only the fictional samples are allowed
+*.pdf
+!samples/*.pdf
+data/real/
